@@ -1,0 +1,64 @@
+body{
+    background-color: beige;
+    border:2px solid red;
+    margin: 60px;
+}
+h1 {
+    
+        background-image: url("./Resources/images/pattern.webp");
+        margin: 40px 10px;
+        font-size: 100px;
+        text-align: center;
+        font-weight: bold;
+        color: khaki;
+        text-transform: capitalize;
+        font-family: "helvetica", arial, sans-serif;
+        
+   
+}
+img {
+    margin: 20px 10px;
+}
+h3  {
+    margin: 20px 10px;
+}
+article {
+    margin: 20px 10px;
+}
+span{
+    color: blue;
+}
+.brushes{
+        background-color: mediumspringgreen;
+        margin: 40px 10px;
+        height: 40px;
+        font-size: 32px;
+        text-align: left;
+        font-weight: bold;
+        color: white;
+        text-transform: capitalize;
+        font-family: "helvetica", arial, sans-serif;
+}
+
+.frames{
+    background-color: lightcoral;
+    margin: 40px 10px;
+    height: 40px;
+    font-size: 32px;
+    text-align: left;
+    font-weight: bold;
+    color: white;
+    text-transform: capitalize;
+    font-family: "helvetica", arial, sans-serif;
+}
+.paint{
+    background-color: skyblue;
+    margin: 40px 10px;
+    height: 40px;
+    font-size: 32px;
+    text-align: left;
+    font-weight: bold;
+    color: white;
+    text-transform: capitalize;
+    font-family: "helvetica", arial, sans-serif;
+}
